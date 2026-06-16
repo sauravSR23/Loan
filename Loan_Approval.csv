@@ -1,0 +1,51 @@
+Loan_ID,Gender,Married,Dependents,Education,Self_Employed,ApplicantIncome,CoapplicantIncome,LoanAmount,Loan_Amount_Term,Credit_History,Property_Area,Loan_Status
+1,Male,Yes,0,Graduate,No,5000,2000,120,360,1,Urban,Y
+2,Female,No,0,Graduate,No,3000,0,80,360,1,Rural,Y
+3,Male,Yes,1,Graduate,No,4000,1500,100,360,1,Semiurban,Y
+4,Male,Yes,2,Not Graduate,Yes,2500,1000,130,360,0,Rural,N
+5,Female,No,0,Graduate,No,6000,0,,360,1,Urban,Y
+6,Male,Yes,3+,Graduate,Yes,2000,500,150,360,0,Rural,N
+7,Male,No,0,Graduate,No,7000,2500,140,360,1,Urban,Y
+8,Female,Yes,1,Graduate,,3500,1200,90,360,1,Semiurban,Y
+9,Male,Yes,2,Not Graduate,No,2200,800,160,360,0,Rural,N
+10,Male,No,0,Graduate,No,8000,0,100,360,1,Urban,Y
+11,Female,Yes,0,Graduate,No,4500,1500,110,360,,Semiurban,Y
+12,Male,Yes,1,Graduate,Yes,2800,1000,170,360,0,Rural,N
+13,Male,No,0,Graduate,No,5200,1800,125,360,1,Urban,Y
+14,,No,0,Graduate,No,3100,0,85,360,1,Rural,Y
+15,Male,Yes,2,Graduate,No,4300,1400,115,360,1,Semiurban,Y
+16,Male,Yes,3+,Not Graduate,Yes,1900,600,180,360,0,Rural,N
+17,Female,No,1,Graduate,No,6500,0,105,360,1,Urban,Y
+18,Male,Yes,0,Graduate,No,4800,1600,,360,1,Semiurban,Y
+19,Male,No,0,Not Graduate,No,2100,500,165,360,0,Rural,N
+20,Female,Yes,2,Graduate,No,7200,2000,130,360,1,Urban,Y
+21,Male,Yes,1,Graduate,No,5500,1700,125,360,1,Semiurban,Y
+22,Female,No,0,Graduate,No,2900,0,90,360,1,Rural,Y
+23,Male,Yes,2,Not Graduate,,2300,700,175,360,0,Rural,N
+24,Male,No,0,Graduate,No,7800,0,95,360,1,Urban,Y
+25,Female,Yes,1,Graduate,No,4200,1300,115,,1,Semiurban,Y
+26,Male,Yes,3+,Not Graduate,Yes,1800,500,190,360,0,Rural,N
+27,Male,No,0,Graduate,No,6200,1800,120,360,1,Urban,Y
+28,Female,No,0,Graduate,No,3400,0,88,360,1,Rural,Y
+29,Male,Yes,1,Graduate,No,4600,1400,118,360,1,Semiurban,Y
+30,Male,Yes,2,Not Graduate,Yes,2400,800,170,360,0,Rural,N
+31,Female,No,0,Graduate,No,6900,0,102,360,1,Urban,Y
+32,Male,Yes,1,Graduate,No,5100,1600,122,360,,Semiurban,Y
+33,Male,No,0,Not Graduate,No,2200,600,168,360,0,Rural,N
+34,Female,Yes,2,Graduate,No,7400,2100,128,360,1,Urban,Y
+35,Male,Yes,0,Graduate,No,5300,1700,124,360,1,Semiurban,Y
+36,Female,No,0,Graduate,No,3200,0,86,360,1,Rural,Y
+37,Male,Yes,3+,Not Graduate,Yes,2000,700,,360,0,Rural,N
+38,Male,No,1,Graduate,No,6700,1900,118,360,1,Urban,Y
+39,Female,Yes,0,Graduate,No,4400,1500,112,360,1,Semiurban,Y
+40,Male,Yes,2,Not Graduate,Yes,2600,900,172,360,0,Rural,N
+41,Female,No,0,Graduate,No,7600,0,98,360,1,Urban,Y
+42,Male,Yes,1,Graduate,No,5000,1800,120,360,1,Semiurban,Y
+43,Male,No,0,Not Graduate,No,2100,400,170,360,0,Rural,N
+44,Female,Yes,2,Graduate,No,7100,2200,130,360,1,Urban,Y
+45,Male,Yes,0,Graduate,No,5400,1600,123,360,1,Semiurban,Y
+46,Female,No,0,Graduate,No,3300,0,87,360,1,Rural,Y
+47,Male,Yes,3+,Not Graduate,Yes,1900,500,188,360,0,Rural,N
+48,Male,No,1,Graduate,No,6800,2000,119,360,1,Urban,Y
+49,Female,Yes,0,Graduate,No,4700,1400,114,360,1,Semiurban,Y
+50,Male,Yes,2,Not Graduate,Yes,2500,800,175,360,0,Rural,
