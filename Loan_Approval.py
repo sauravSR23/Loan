@@ -177,6 +177,6 @@ prediction = model.predict(new_customer)
 print("\n========== LOAN PREDICTION ==========")
 
 if prediction[0] == 1:
-    print("✅ Loan Approved")
+    print(" Loan Approved")
 else:
-    print("❌ Loan Rejected")
+    print(" Loan Rejected")
